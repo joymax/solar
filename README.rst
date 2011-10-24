@@ -1,4 +1,3 @@
-
 Solar
 =====
 
@@ -39,3 +38,4 @@ TODO
 
 * Dynamic fields support (need mapping for facets)
 * Groups refactoring
+
